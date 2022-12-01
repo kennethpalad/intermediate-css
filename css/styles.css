@@ -39,8 +39,22 @@
 .social-list{
     list-style: none;
     padding: 0px;
+    text-align: center;
 }
 
 .social-list > li{
-    display: inline;
+    display: inline-block;
+    background-color: #01d301;
+    min-width: 3.5em;
+}
+.social-list a{
+    text-decoration: none;
+}
+
+
+
+
+.full-hero{
+    height: 40vh;
+    background-color: #b4d7fe;
 }
