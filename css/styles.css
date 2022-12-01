@@ -3,14 +3,28 @@
     float: left;
     font-size: 1rem;
     padding: 2%;
-    width: 21%;
-    margin: 2%;
+    width: 23%;
+    margin: 40px 1% 0%;
     box-sizing: border-box;
 
 }
+.bio-box  img{
+    width: 100%;
+    height: auto;
+}
+
+.bio-box h3{
+    margin-top: -25%;
+    text-align: center;
+    color: white;
+    margin-bottom: 15%;;
+}
+
 .bio-wrapper {
     font-size: 24px;
     background-color: #c0e0c3;
+    margin: auto;
+    max-width: 960px;
 }
 
 .bio-wrapper:after {
