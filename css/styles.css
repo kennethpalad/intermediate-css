@@ -45,13 +45,19 @@
 .social-list > li{
     display: inline-block;
     background-color: #01d301;
-    min-width: 3.5em;
+    width: 3.5em;
+    height: 3.5em;
+    border-radius: 100px ;
+    box-sizing: border-box;
+    padding: 1.25em;
+    font-size: 1em;
+    line-height: 1;
+
+    
 }
 .social-list a{
     text-decoration: none;
 }
-
-
 
 
 .full-hero{
